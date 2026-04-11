@@ -17,3 +17,4 @@ if __name__ == '__main__':
     busca = busca_cnpj()
     busca.iniciar()
     busca.busca()
+    input('Navegador aberto. Pressione Enter para fechar...')
